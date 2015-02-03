@@ -1,0 +1,8 @@
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+export GMAIL_USERNAME=“joseph.sloniowski@gmail.com”
+export GMAIL_PASSWORD=“dkGrq27X”
+export MAILCHIMP_API_KEY=“5299371b03e33ad6f2680e435e22eb12-us10”
+export MAILCHIMP_LIST_ID=“834e94378c”
+export OWNER_EMAIL=“stuart.jeffrey@gmail.com”
+export SECRET_KEY_BASE=“1d885531d84ec913122b3fb4dccbfac5e6ecb6c034d53c3620fd6ec567be592833a96bac209b410eac2591767924ccb4263f64ebc0242e490956bd4bfe58dc3c”
